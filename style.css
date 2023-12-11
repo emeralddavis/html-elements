@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table, tr, th, td {
+    border: 2px solid blue;
+    border-collapse: collapse;
+    background-color: black;
+    color: coral;
+    /* border-radius: 7px; */
+}
+
+th {
+    color: green;
+}
+
